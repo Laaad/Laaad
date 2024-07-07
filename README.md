@@ -1,3 +1,5 @@
+![Black Background](https://yourimagehost.com/black-background.png)
+
 ## Hi there 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Laaad&show_icons=true&theme=dark)
