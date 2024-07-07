@@ -2,8 +2,8 @@
 ## Hiya! :blush: I'm Ladan!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaad&layout=donut" alt="Top Langs" style="width: 45%; height:11rem;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Laaad&show_icons=true&theme=swift" alt="GitHub Stats" style="width: 45%; height:12rem;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaad&layout=donut" alt="Top Langs" style="width: 45%; height:160px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Laaad&show_icons=true&theme=swift" alt="GitHub Stats" style="width: 45%; height:160px;"/>
 </div>
 <div align="center">
 
