@@ -1,4 +1,4 @@
-![Black Background](https://wallpapers.com/images/high/all-black-background-naarm5379b1njo8i.webp))
+![Black Background](https://wallpapers.com/images/high/all-black-background-naarm5379b1njo8i.webp)
 
 ## Hi there 👋
 
