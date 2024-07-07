@@ -1,10 +1,9 @@
-![Black Background](https://wallpapers.com/images/high/all-black-background-naarm5379b1njo8i.webp)
 
 ## Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Laaad&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Laaad&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laaad&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laaad&layout=compact)
 
 <!--
 **Laaad/Laaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
