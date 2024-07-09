@@ -1,3 +1,23 @@
+<span>
+<img height="20" width="20" src="https://cdn.simpleicons.org/python/6C946F" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/cplusplus/4535C1" /> 
+<img height="20" width="20" src="https://cdn.simpleicons.org/css3/478CCF" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/html5/EB5B00" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/figma/DC0083" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/react/36C2CE" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/redux/7469B6" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/nodedotjs/40A578" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/fastapi/006769" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/javascript/FDDE55" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/ubuntu/F97300" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/flask/32012F" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/jira/4535C1" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/bootstrap/874CCC" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/c/F0EBE3" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/typescript/4793AF" />
+</span>
+
+
 
 ## Hiya! :blush: I'm Ladan!
 
