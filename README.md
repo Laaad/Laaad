@@ -2,12 +2,12 @@
 ## Hiya! :blush: I'm Ladan!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaad&layout=donut" alt="Top Langs" style="width: 45%; height:160px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Laaad&show_icons=true&theme=swift" alt="GitHub Stats" style="width: 45%; height:160px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaad&layout=donut&theme=transparent&text_color=FFB4C2&border_color=DA7297&&border_radius=7&title_color=DA7297&icon_color=DA7297" alt="Top Langs" style="width: 45%; height:160px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Laaad&show_icons=true&theme=transparent&text_color=FFB4C2&border_color=DA7297&border_radius=7&title_color=DA7297&icon_color=DA7297" alt="GitHub Stats" style="width: 45%; height:160px;"/>
 </div>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laaad)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laaad&layout=donut&theme=transparent&hide_border=true&ring_color=DA7297&text_color=FFB4C2&border_color=DA7297&title_color=DA7297&icon_color=DA7297)](https://git.io/streak-stats)
 </div>
 
 <!--
