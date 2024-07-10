@@ -19,7 +19,21 @@
 
 
 
-## Hiya! :blush: I'm Ladan!
+## Hiya! :blush:
+
+I'm Ladan!
+
+  <p align="right">
+    <a href="https://www.linkedin.com/in/ladanrabbi" target="_blank">
+        <img height="20" width="20" src="https://cdn.simpleicons.org/linkedin/478CCF" alt="LinkedIn" />
+    </a>
+    <a href="https://discord.com/users/discombobulated_" target="_blank">
+        <img height="20" width="20" src="https://cdn.simpleicons.org/discord/E2DFD0" alt="Discord" />
+    </a>
+    <a href="mailto:ladan.rb@gmail.com">
+        <img height="20" width="20" src="https://cdn.simpleicons.org/gmail/FF0000" alt="Gmail" />
+    </a>
+    </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaad&layout=donut&theme=transparent&text_color=FFB4C2&border_color=DA7297&&border_radius=7&title_color=DA7297&icon_color=DA7297" alt="Top Langs" style="width: 45%; height:160px;"/>
