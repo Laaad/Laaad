@@ -10,7 +10,7 @@
 <img height="20" width="20" src="https://cdn.simpleicons.org/fastapi/006769" />
 <img height="20" width="20" src="https://cdn.simpleicons.org/javascript/FDDE55" />
 <img height="20" width="20" src="https://cdn.simpleicons.org/ubuntu/F97300" />
-<img height="20" width="20" src="https://cdn.simpleicons.org/flask/32012F" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/flask/982176" />
 <img height="20" width="20" src="https://cdn.simpleicons.org/jira/4535C1" />
 <img height="20" width="20" src="https://cdn.simpleicons.org/bootstrap/874CCC" />
 <img height="20" width="20" src="https://cdn.simpleicons.org/c/F0EBE3" />
