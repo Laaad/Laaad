@@ -22,7 +22,11 @@
 
 ## Hiya! :blush:
 
-I'm Ladan!
+<p align="justify">
+I'm Ladan, a puzzle lover with a great eye for details. Details make the world a beautiful place! Colors fascinate me, as does music. Having embraced a new lifestyle from Tehran to Eindhoven, I dove into a huge bowl of quark — how I love quark! I have an innate love for solving puzzles and fixing things, whether it's a complex coding challenge or a broken watch. My journey into IT began with a 2D simulation football team in robotics, where not only did I learn coding, but I also studied football beyond it being just a game, viewing it as a mathematical problem. I then pursued my studies in Mathematics, which ,well, technically brought me the joy of finding patterns and solving puzzles. I believe IT is where I can combine my analytical skills with my love for creativity, making a meaningful impact in a field that never ceases to fascinate me.
+</p>
+
+
 - 🔭 I’m currently working on an open project at Motopp.
 - 🌱 I’m currently learning React.
 
