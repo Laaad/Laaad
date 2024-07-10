@@ -23,7 +23,7 @@
 ## Hiya! :blush:
 
 I'm Ladan!
-- 🔭 I’m currently working on a open project at Motopp.
+- 🔭 I’m currently working on an open project at Motopp.
 - 🌱 I’m currently learning React.
 
   <p align="right">
