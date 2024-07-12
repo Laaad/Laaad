@@ -16,6 +16,7 @@
 <img height="20" width="20" src="https://cdn.simpleicons.org/c/F0EBE3" />
 <img height="20" width="20" src="https://cdn.simpleicons.org/typescript/4793AF" />
   <img height="20" width="20" src="https://cdn.simpleicons.org/github/E2DFD0" />
+  <img height="20" width="20" src="https://cdn.simpleicons.org/django/6C946F" />
 </p>
 
 
