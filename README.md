@@ -29,8 +29,8 @@ I'm Ladan, a puzzle lover with a great eye for details. Details make the world a
 </p>
 
 
-- 🔭 I’m currently working on an open project at Motopp.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working on an open source CRM project using Python and Typescript.
+- 🌱 I’m currently learning Java.
 
   <p align="right">
     You can reach me out via: 
