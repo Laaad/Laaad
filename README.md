@@ -30,8 +30,9 @@ I'm Ladan, a puzzle lover with a great eye for details. Details make the world a
 </p>
 
 
-- 🔭 I’m currently working on an open source CRM project using Python and Typescript.
-- 🌱 I’m currently learning Java.
+- 👷‍♀️🏗️ I’m currently working on projects to help construction sites within the Netherlands with their energy management by analysing data and creating both live and historical dashboards for them using Python and Typescript. 
+- 🌱 I’m currently learning C# and ASP.Net.
+- 🔭 I'm looking for opportunities to learn about Data Engineering.
 
   <p align="right">
     You can reach me out via: 
