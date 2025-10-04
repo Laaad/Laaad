@@ -44,9 +44,6 @@
 ### 📬 Get in touch
 
 <p align="right">
-    <a href="https://www.linkedin.com/in/ladanrabbi" target="_blank">
-      LinkedIn
-    </a>&nbsp;
     <a href="https://discord.com/users/discombobulated_" target="_blank">
         <img height="20" width="20" src="https://cdn.simpleicons.org/discord/E2DFD0" alt="Discord" />
     </a>&nbsp;
