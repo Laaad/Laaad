@@ -40,18 +40,6 @@
 - 👷‍♀️🏗️ I worked on projects to help construction sites within the Netherlands with their energy management by analysing data and creating both live and historical dashboards for them using Python. C#, and Typescript.
 - 👥 I contributed to an open source CRM system, designing and developing new features and building a robust system to improve user experience.
 
-
-### 📬 Get in touch
-
-<p align="right">
-    <a href="https://discord.com/users/discombobulated_" target="_blank">
-        <img height="20" width="20" src="https://cdn.simpleicons.org/discord/E2DFD0" alt="Discord" />
-    </a>&nbsp;
-    <a href="mailto:ladan.rb@gmail.com">
-        <img height="20" width="20" src="https://cdn.simpleicons.org/gmail/FF0000" alt="Gmail" />
-    </a>
-</p>
-
 ---
 
 ### 📊 GitHub Stats
@@ -70,4 +58,15 @@
 
 <!--
 **Laaad/Laaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### 📬 Get in touch
+
+<p align="right">
+    <a href="https://discord.com/users/discombobulated_" target="_blank">
+        <img height="20" width="20" src="https://cdn.simpleicons.org/discord/E2DFD0" alt="Discord" />
+    </a>&nbsp;
+    <a href="mailto:ladan.rb@gmail.com">
+        <img height="20" width="20" src="https://cdn.simpleicons.org/gmail/FF0000" alt="Gmail" />
+    </a>
+</p>
 -->
