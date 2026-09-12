@@ -44,10 +44,10 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaad&layout=donut&theme=transparent&text_color=FFB4C2&border_color=DA7297&&border_radius=7&title_color=DA7297&icon_color=DA7297" alt="Top Langs" style="width: 45%; height:160px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Laaad&show_icons=true&theme=transparent&text_color=FFB4C2&border_color=DA7297&border_radius=7&title_color=DA7297&icon_color=DA7297" alt="GitHub Stats" style="width: 45%; height:160px;"/>
-</div>
+</div> -->
 
 <div align="center">
   <br>
